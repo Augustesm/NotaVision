@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\All Android stuff\NovaVision\opencv\.cxx\Debug\406u156x\arm64-v8a'
+ninja: no work to do.
